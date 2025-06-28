@@ -1,0 +1,10 @@
+﻿Name,Quantity,Component
+"U3",1," LCD 16 x 2"
+"U4",1," Arduino Uno R3"
+"D2",1,"Red LED"
+"R3",1,"220 Ω Resistor"
+"U5",1," Temperature Sensor [TMP36]"
+"PIEZO2",1," Piezo"
+"R4",1,"300 Ω Resistor"
+"R5",1,"1 kΩ Resistor"
+"Rpot1",1,"250 kΩ Potentiometer"
